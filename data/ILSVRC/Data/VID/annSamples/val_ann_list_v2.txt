@@ -1,0 +1,536 @@
+1016, A monkey goes from left to right and then return the left on a branch
+301, A white sheep in the middle and distance is sitting on the ground behind a tree.
+623, A motorcycle carrying a man climbs up the dune 
+1086, A blue and yellow bus is driving from right to left in front of a building.
+957, a black horse with a white spot on its head is moving next to a white horse
+123, The airplane is flying in the second place from bottom to top is flying from left to right.
+721, The second bicycle from the left runs on a road between the trees
+64, The black whale in the middle is swimming from right  to left, spewing out a lot of water.
+426, A squirrel sits on the root of a tree and then jumps up
+547, The white and black bird is looking for food on the ground on the left.
+31, A black dog walks from left to the right
+449, A horse in the distance runs from left to right
+644, A black turtle is walking slowly on the ground.
+267, The white bear is lying on the grass and shaking its head in the sun.
+1181, The white car at the left bottom side of the screen stops on the ground.
+1278, A hamster next to the speaker opens its small mouth
+897, A brown dog is walking slowly from right to left on the ground with green grass.
+253, The adult elephant on the right is eating in the back.
+884, A brown dog is playing in the river
+596, a airplane in the lower right corner is flying from right to left
+621, A motorcycle carrying a man in blue is moving down a hill 
+450, The black and white mother bird is feeding its young babies in the bird nest.
+230, A squirrel gets something from the grass and then bites it
+483, A black dog is lying on a blue blanket 
+742, A red car at the bottom runs from right to left on the road
+479, The tall zebra is eating grass seriously on the grass
+1167, A white car is parked on the right of the road
+865, A brown snake crawls on the shallow water
+526, The silvery car is parked under the shade of trees on the grass.
+170, The white airplane is taking off and flying from right ro left.
+216, A yellow antelope in the middle and distance eats grass on the grassland
+510, A brown cattle in the middle is eating grass on the ground
+746, A black car on the left is parked on the road
+1266, The brown and white monkey is staying in the second place on the left.
+990, An elephant is walking followed behind another elephant on a road in the forest.
+825, A fluffy hamster is sitting in a green toy 
+115, The white airplane spewing out white smoke inn the fourth line is flying from left to right in the sky.
+778, A blue car is making a left turn 
+598, The leading airplane is flying in the blue sky from right to left
+90, A turtle is swimming under the sea from left to right 
+108, The third airplane on the right is flying in the sky from left to right.
+794, A brown fox is standing and eating on the green grass near a road.
+750, The white motorcycle carrying a man is parked on the road.
+0, A lion lies quietly in the arms of a man
+668, The bicycle on the right is riding fast forward
+469, A car is moving slowly after three cars
+570, A white bird is sitting on the wall between two flags 
+1047, A brown horse looks around in front of the trees
+624, A car is moving gown a hill on the desert 
+127, The airplane spewing out white smoke is flying from left to right in the fourth line in the sky.
+1096, The red car in the front is parking on the right side of the road.
+1140, A white car in the middle and distance is parking on the right side of the road.
+273, The fox on the left opens its mouth and looks up
+396, A black train is running fast from the far to near on the railway.
+121, An airplane soars in the center of the field of vision with white stripes on its wings
+922, The airplane on the left and top turns and flies to the right 
+569, The right bird stands  on a platform and then flies away
+261, The black bird on the right turns and gets close to the water
+173, A white plane in the distance is parked on the ground 
+302, The white sheep sitting on the left stares at the distance 
+1268, A brown and white monkey is sitting on the left in the front.
+938, A black dog on the right runs around on the floor
+814, A yellow dog run from the right to the left on the road
+797, The black domestic cat is walking from left to right on the grass.
+437, A squirrel is walking on the ground in the forest.
+1064, a blue and yellow bus is moving quickly from right to left
+36, The dark dog on the right walks through the creek
+993, A black elephant in small size is walking in the shrub bush on the right.
+498, The black cattle in the front is eating grass with its head down in the open.
+744, A black car is running from right to left on the road.
+988, an big elephant on the left is fighting with another small elephant
+4, An elephant on the left in the distance is drinking water in the river.
+172, A white airplane in the distance is parked in the distance
+427, a gray squirrel at the top of the rock is crawling on the rocks
+1166, the first car in the near is parking next to the sidewalk
+1269, A monkey on the left is catching a young monkey in the zoo.
+1097, A silvery car is parked behind a black one on the right side of the road.
+762, The red motorcycle carrying a man is running from right to left in the desert.
+1038, In the distance, there is a small monkey waiting on the trunk, it is in the right position of the trunk
+275, A white motorcycle carrying a man is moving from left to right
+1148, The black car is parked on the right side of the road.
+442, The red and black bicycle on the left runs on a road
+894, A  dog on the grass puts its head under a branch
+410, a black car is drifting and moving fast
+500, A cattle on the right grazes and swings its tail
+719, A bicycle in the most distance ridden by a person is running on the road surrounded by yellow grass.
+1089, a motorcycle at the left side is turning to its left side in front of a bus
+325, A black and white domestic cat is sleeping on the floor 
+541, A car in dark color runs from right to left on a road
+77, The whale on the left swims in the water in a foggy day
+1284, The yellow little monkey is held tightly by its mom.
+432, A small white sheep in the middle is waking from right to left with a big sheep on the green grass.
+292, The red and white watercraft is running from right to left in the lake.
+139, An airplane on the far side is flying from right to left
+844, A zebra on the right stands near a mesh wire 
+637, a brown domestic cat with some white furs on its belly is standing on the bed and looking to its right side
+689, The bicycle at the bottom and middle runs along the road in the evening
+161, A red car is parked in the left of the road
+318, A black domestic cat with some white squat on the ground and find something in the grass
+971, a black bear next to the trash can is licking its mouth
+1113, A white car is parked on the right side of the road between a black car and a yellow car.
+175, An white  airplane in the distance is parked on the airport
+1271, the right golden dog is lying on the top and another dog is leaning against it
+8, A mountain bicycle carrying a girl in red is moving from right to left 
+602, The airplane flying in the lower middle is drawing a blue arc in the sky from the bottom up.
+754, A  gray and black hamster is eating food from a red small food house.
+1152, A car is parked among other cars on the side of the road when a bus is passing.
+978, A bear from the right and top gets close in the forest
+1209, The first bike from the right ridden by  a man in bright color  runs the road 
+487, a black cattle on the right is standing on the grass
+908, A brown and white antelope facing to the left is eating grass with its head down on the left.
+425, The black and white sheep is lying on the ground dotted with withered grass near a  tree.
+192, A deer is standing on the grassland with its head down smelling a white flower
+677, the left first black bicycle is carrying a man with a black shirt and a black helmet
+649, a dark turtle is crawling on the ground in the shadow
+414, A black bird is feed by a man in the cage.
+1180, From the left, the first car is parked behind a white utility pole
+729, A car in white is parked on the roadside
+1060, A red car far away is driving from far to near on the road with trees nearby.
+1083, A white car at the back is parked behind the other white car on the road.
+69, A black whale the second on the left is swimming near the water surface in the sea.
+478, a small zebra on the left is playing with a big zebra on the grass
+684, The bike on the right carrying a man  in dark clothes runs on the road 
+567, The black bird is standing in the middle by the fountain.
+558, A bird in the distance is standing on the red ground of the park.
+857, A gray lizard is standing on a gray stone in a small room.
+880, A dark brown cattle is walking on the grass
+605, The airplane in the upper middle is flying in the sky from right to left.
+843, A zebra is standing on the ground after a zebra walking to the left 
+997, A white and brown dog on the left is licking the baby?s face.
+775, The airplane is flying from right to left in the sky.
+659, A whale swam from the right to the middle and sprayed the water column
+364, A white airplane is flying from right to left in the blue sky with white clouds.
+885, a black dog is coming toward the camera then going far away
+875, The black cattle on the far left is eating grass with its head down near trees.
+682, The bicycle carrying a man is running straight at the last of the queue on the left side of the road.
+204, an orange domestic cat with four white craws is playing with a iPad
+760, The right and red car runs on the road 
+793, A black and fat cat paces on the green grass 
+407, The white car stops at the road side near a man in white
+72, The second whale from right is swimming in the sea.
+1079, a white car on the left is moving from left to right
+66, The whale on the left swims in the water
+589, the right white bird is standing on the top of a gray wall
+1031, a monkey on the left is  hanging on the wire
+536, The brown monkey on the left is eating food on a srong branch in a tree.
+921, An airplane at the bottom near the center is flying from left to right in the sky.
+521, The white horse walks with a man on the road.
+799, A brown fox is being attacked by a black cat
+674, a bicycle behind the far left bicycle is running closer
+939, The lowest airplane is flying fast in the sky
+1183, A white car is parked in the parking lot near a lot of other cars.
+268, The white and brown bear is lying on the ground near iron net.
+891, A dog in dark color on the grass runs to the bottom
+698, a bicycle is carrying a man with a black jacket in the middle of the back row
+343, A brown dog crosses the grass and runs into the distance
+420, A white dog paces on the wooden floor and suddenly puts its legs into the air
+901, The brown antelope in the middle is disturbed by a rabbit when it is eating grass.
+5, The elephant on the left looks to the left in the distance
+1055, The white and blue train is running from right to left on the rail.
+551, A black bird  in the distance is walking under a fountain
+1013, A yellow monkey is running fast from right to left on a large log.
+866, the right giant panda is sitting next to another giant panda on a wooden platform
+1169, A black car is parking at the second place along the pavement 
+622, a motorcycle carrying a man is running closer
+780, The black and white zebra is walking around on the ground  in a room.
+685, the left bicycle is carrying a man and coming closer
+774, A red and white airplane is flying from left to right in the sky.
+1040, The train moves from left to right.
+1188, The black bus is running quickly  from left to right on the road.
+639, A brown dog in the middle and distance is biting with another dog under a tree.
+1205, The bicycle  on the right carrying a man in bright color runs on the road
+337, The lion is lying on the ground to have a rest on the left.
+345, a dark dog is standing close to the edge of the cliff
+562, The white and brown bird on the left is standing on the ground near fountain.
+508, A cattle swinging its tail stands on the grass
+342, A brown dog is running close from the distance on the ground
+149, an airplane is flying from right to left with a white tail
+706, The white bicycle in the front is running in the second place in the middle of the left side of the road.
+1277, A hamster bites something in black on a table
+17, A black and white domestic cat is playing happily in a tree.
+863, A white car behind the trees is driving from right to left on the road.
+542, The white car under follows the dark car and runs fast on the road
+696, The green bicycle in the last is speeding along on the rode
+186, An antelope is walking to the right on the grassland before two antelopes 
+201, the left slightly brown antelope is lying on the ground
+1274, a white hamster is eating something held by a man's hand
+888, An adult brown short-haired dog is walking on the grass from right to left.
+934, The red airplane is flying ahead from left to right in the sky at the back.
+974, A black and white bear goes into the water 
+241, The watercraft is sailing from left to right on the vast sea.
+237, A white and black dog is running and catching up some animals on the road near a river.
+751, a black car with red back lights is parking behind a motorcycle 
+642, A small turtle is moving slowly in the middle
+1170, A gray car on the right is parking on the road next to a building. 
+205, A white and yellow domestic cat is lying on the grass.
+125, A airplane on the right below the center is flying in the sky from left to right.
+21, a whale on the sea is captured by humans
+687, a black dog is playing with a human
+736, A white car is running from left to right behind a bus on the road.
+931, The airplane on the bottom left flies to the right in the air
+647, A turtle runs from left to right on the ground
+398, The black and yellow train is running from left to right on the rail.
+574, A bird in black puts its head down and bites something
+597, The second plane from the left flies into the air and changes its location to the top and left
+1151, a white car is parking next to a bus the the left side
+485, A dog is lying on a blanket
+973, The black bear beats the car on the left with its mouth
+112, the most upper airplane is flying from left to right with a green tail
+517, A white motorcycle carrying a man is running ahead from left to right in the desert.
+101, An airplane is flying towards left 
+1164, The black car is parked on the left side of the road in the front.
+1017, A monkey runs from the leftmost to the rightmost
+847, The strongest zebra in the largest size is standing on the snow in the middle.
+784, A fox moves from right to middle and drinks water in the plate
+494, A black cattle nods down and chews the grass 
+789, A brown fox with a long tail is eating before a black cat
+1275, A white little hamster is being fed to eat
+951, The airplane at the bottom is flying from right to left in the sky.
+966, a rabbit is playing with the person happily
+1218, The bike on the right is carrying a man in green suit
+980, A black, white and gray monkey is hiding in a luxuriant tree.
+390, The brown airplane in the upper left corner is flying in the sky from left to right.
+666, A small yellow compact car is spinning slowly on the stage
+429, The squirrel stands on a stone and keeps still
+85, The larger elephant on the left is eating the food.
+619, Motorcycle drifting away in the desert
+612, The airplane at the bottom flies from left to right
+411, a black car with silver wheel tyres is drifting from left to right
+270, A helicopter  in the left  flies in the sky
+1236, a red panda in the zoo is walking from left to right quickly
+184, The white domestic cat is held by a huge monkey.
+352, A brown dog is running from the river to the grass.
+900, The gray squirrel on the left side of the cloth is eating snacks on the grass.
+40, A brown dog on the left runs on the road
+142, The airplane on the far right is flying from left to right in the sky.
+611, The second plane flies from left to right in the sky
+1061, a car behind the bus is moving far away 
+1270, the left white dog is leaning against a golden dog on the top step
+219, An antelope is eating grass near the far tree 
+210, The antelope on the left fight with antelope on the right on the road
+419, a dark turtle is lying on a little island covered by some grasses 
+451, A bird in the nest is looking around in the middle
+1068, The black car is parking on the left side of the road near grass.
+1153, The white car that is blocked in the lower left corner is parked on the side of the road
+1124, A huge bus makes a large turn on the road.
+1262, The brown and white monkey on the left is touching the baby monkey.
+234, The second watercraft from right at the beginning moves from right to left.
+174, A white and black airplane facing to the left is parked in the airport.
+533, A white car is running from left to right in front of buildings on the road.
+1102, a red car to the left of a white car is stopping
+312, The cattle in front of a door and puts its head down and bites a yellow rice straw
+1171, A white car facing to the right is parked at the back of the road.
+353, A brown rabbit on the floor is eating bread
+546, a gray bird with some white spots is standing on the ground and looking for something to eat
+917, A airplane is flying rapidly from right to left in the sky.
+1114, A white van is appearing on the right when a green bus is moving
+916, The white airplane in the sky is flying from right to left towards black smoke.
+283, A ship moves fast from right to left, splashing 
+770, An airplane is flying from right to left under another plane
+44, A brown dog wearing blue necklace is walking from left  to right on a beach.
+107, An airplane is flying on the sky.
+56, a white watercraft on the far right is sailing on the sea
+412, A  yellow parrot stands in  a metal cage and turns its head
+74, The white watercraft is sailing from right to left in the vast sea.
+1256, A giant panda on the right is sitting on the ground and eating fresh bamboo.
+246, A black whale at the bottom in the middle is swimming from left to right in the sea.
+511, The cattle on the right in the distance looks down and eats grass on the ground
+977, A black bear is playing happily with a black TV in the forest.
+471, The green car at the bottom and left carrying a man in green hat stops at the road
+1267, A little yellow monkey turns over its head and is hugged by its parents.
+949, A white airplane is flying and rolling in the sky.
+1051, An airplane is flying in front of a man wearing a yellow vest
+872, A black cattle facing to the right is standing on the withered grass.
+361, The airplane in the middle and left moves from right to left
+89, An elephant in the middle is drinking water with nose in front of shrubs.
+470, The green car at the top stops  behind a red car 
+959, A panda lies on the bamboo row near the tree
+654, A whale is swimming at the surface of the sea
+691, The first bicycle from the right runs in the night on the road
+648, A turtle keeps still on the ground under the sun
+1126, The white car is parked near a golden one on the left side of the road.
+1094, A car is parked among other cars on the side of the road when a blue bus is passing.
+1103, a red car at the second place from the bottom is parking next to a silver car
+790, Always black cat on the left side of the grass
+266, a golden bear is lying on the ground and looking to the right
+645, The large turtle on the ground is playing with a finger
+1184, A white car stops on the right
+1088, a white car is parking in front of another one at the left side
+745, A white car facing to the left is parked on the road near grass behind a black one.
+796, A brown fox on the right is running across the grass to a bowl for food from right to left.
+1257, A fox eating in the grass
+502, A cattle the second on the left is standing in the yellow grass.
+829, The small monkey is sitting between two adult monkey near the sea.
+176, The white airplane in the middle is parking near airdrome.
+260, A brown bird in the middle is pecking in the grass from right to left.
+735, A large bus turns left and drives on a road in a sunny day
+1107, A white and black car is parked on the right side in front of buildings.
+1101, A bus moving after a bunch of cars
+1146, The white car is parked at the back of the right side of the road.
+869, A black and white panda is playing happily with an animal.
+846, A zebra in the middle and the centre stands on the snow and looks to the left
+838, The third monkey from the left stands on the shelf.
+868, a giant panda is sitting next to a wood behind the window
+1225, The black dog lies on the ground, biting something blue.
+855, a zebra in the middle right is eating grass
+286, The white watercraft in the back is running from left to right in the vast sea.
+920, the last airplane is flying from left to right with a long white smoke tail
+83, The gray elephant is drinking water near river in the open.
+34, A dog runs across the grass and opens its mouth
+458, A black, white and blue car carrying two people is running from left to right on the road.
+265, A white bear is rolling on a large stone in the sun and try to sleep.
+965, A red panda is sitting on the branch
+879, a deep brown cattle is lowering its head to eat grass
+165, A black car is driving from far to near on the road with trees besides.
+421, A orange motorcycle carrying a man is running on the road from left to right
+135, An airplane is leading multiple airplanes in an airshow
+208, An antelope quickly crosses the grass and runs into the road
+1222, a yellow dog next to a person is rolling on the grass
+255, The elephant on the far right is constantly licking the tail
+522, The black train is running from left  to right on the rail.
+661, A whale shows its back out of the water
+335, A brown furry lion is walking from left to right on the ground near an iron net.
+1118, A silver car is parked on the right 
+704, The second bicycle from the right in the screen is moving forward on the road.
+1073, A black car facing to the left is parked at the back on the road.
+1282, A brown and white domestic cat is lying on the sofa covered with a leopard -print cloth.
+995, The gray elephant is fighting with the other one on the right in the open.
+630, A large dog on the right plays with a black dog in the left
+350, A brown sways in the grass near a liver
+559, A black bird in the left paces on a square in the water
+394, A lizard crawls and looks up in a yard
+150, The brown horse carrying a man is running from left to right.
+1283, A big monkey is feeding cabbage to the little monkey in her arms
+608, An airplane at the bottom flies to the left in the sky
+279, A motorbike with four wheels and a man in uniform runs on a dune
+802, A yellow tiger plays with another tiger in white in the zoo 
+708, A bicycle on the left and behind a person is running on the road 
+532, The black and white bear is held by a man by its two hands.
+146, The airplane on the left follows other planes, flying on the air
+552, A white car far away is parked on the side of the road.
+35, the left slightly brown dog with a yellow rope on its neck is moving forward
+134, The airplane on the top and middle is flying
+188, A yellow and white antelope on the most left is walking from left to right on the green grass.
+191, The white and white antelope on the right is running from left to right on the grass.
+633, A cat in brown and white in the room looks at the squirrel playing outside 
+831, The ship in the middle and distance sails on the water
+999, a dark brown elephant at the left side is standing next to a tree
+743, A silvery car at the back is running from left to right on the road.
+548, a bird on the far left is walking from left to right
+711, A bicycle rushed from the back to the second running on the road
+177, A white plane parked there in the distance
+895, A brown dog crosses water and opens its mouth
+319, a white and black domestic cat is crawling on the grass field with some flowers
+1026, The monkey in the bottom left corner of the screen runs from right to left.
+1227, The panda in the blue bucket shows its head out 
+984, A black dog with a brown head is lying on the ground and opening its mouth
+391, An airplane in the middle is flying towards the right in the cloudy sky.
+1193, A white car is parked between two black cars on the left side of the road.
+305, A whale swims up and down in the sea
+537, A monkey is hidden in the leaves.
+490, The black cattle facing to the right is standing on the grass and looking for food.
+996, A brown and white dog is sticking its tongue out of its mouth
+723, A black bicycle carrying a man in black is moving on the right
+27, A black dog in the middle lies down on the bricks
+397, A long train runs on the rail in the middle of grass
+360, A plane soars in the blue sky, it is at the bottom of a group of planes
+1048, A black horse is running from right to left near a wooden fence.
+330, A big tiger is looking back in the bushes 
+1042, The black bicycle carrying a man who wears white clothes is running from right to left in the desert.
+277, The black motorcycle is moving along the downhills on the sand from left to right.
+113, The second airplane on the left is soaring in the sky from left to right.
+620, a motorcycle carrying a man is running fast from right to left
+1106, A black car is parked on the left side of the road between a red car and white one.
+761, the left white car on the distance is waiting for the traffic light
+341, A white and yellow lion is eating food  fed by a woman on the right side of that woman.
+349, a bicycle on the far right  is running on the road
+702, A bicycle carrying a man with a helmet is moving on the left of the road line 
+587, A bird is flying down the wall 
+530, The silver car behind the men is parked on the playground
+229, A turtle is resting in a human hand
+444, a brown horse is carrying a man with a black shirt and jumping over the obstacles 
+1228, A giant panda is lying in a blue plastic bucket
+1273, The red,blue and white airplane is flying from left to right in the sky.
+336, The lion behind the running lion stands quietly on the land
+958, A black and white giant panda is lying on a wooden board
+1238, A zebra is walking around on the ground in a room.
+227, A green lizard with brown and white spots is staying on the wall.
+43, the right brown dog with a red rope is moving from left to right
+98, the left second airplane is flying up with a long green smoke tail
+371, A red airplane in the middle is soaring in the sky from left to right.
+919, The first plane from the bottom runs from left to right
+14, A white and black domestic cat in the upper right corner is drinking water on the ground.
+1039, A white and blue car is parking on the right next to the railway.
+55, A small watercraft on the left is staying on the water surface in the sea.
+105, The airplane spewing out white smoke at the bottom is flying from left to right in the sky.
+928, The airplane in the middle and front of the three planes flies from the left to right
+47, The left monkey stands on the branches of a tree.
+1276, A white furry hamster is getting ready to eat fish on a white desk in the middle.
+71, The black whale is jumping down the sea on the far right.
+52, A black whale is jumping down the water, only just the tail out of the surface of sea.
+932, the most outside red airplane is flying from left to right
+491, The light brown cattle is running second and  then stoping to look back.
+673, the last bicycle in the middle is carrying a man with a cyan shirt
+257, a slightly brown bear is eating a fish and standing in the water
+187, The antelope in the middle runs to the right on the grass 
+883, The white horse on the right walks and eats grass
+1127, A brown car is parked on the left of the road
+707, The bicycle carrying a man is running last in the queue on the right of the left side of the road.
+153, A black sheep walks around on the floor
+877, The black cattle on the far left is waling and eating grass in the open.
+1112, a black car is parking behind a white car next to the sidewalk
+686, The right bicycle carrying a man uniform gets close 
+117, The sixth airplane from top to bottom flies in the air with white smoke
+452, The train runs on the railway. 
+166, A gray and blue bird is standing on a string.
+835, a monkey on the left sitting next to the wall is playing with hands
+33, The black dog at the top runs into distance  followed by another dog
+1150, The yellow bus turns and then runs fast on the road
+1187, The second car from the right is parked under a tree on the roadside
+665, The brown and white furry hamster is looking for food on red table.
+443, A dog goes to the right and puts its legs on the bed 
+1078, A black car in the upper left corner is driving from right to left on the road. 
+616, The motorcycle runs from the far to near on sand.
+460, The red car in the back on the right side of the road is running from left to right.
+248, A whale beats the water with its tail in the sea
+1091, The red car in the right part of the screen stops at the side of the street.
+441, A white and black bicycle carrying a man is running in the middle of the road.
+664, A little newborn zebra on the left is trying hard to stand up with the help of its mother in the meadow.
+727, A white car at the left and distance runs into the distance
+464, The green car on the left runs to the right on the track
+1021, A monkey is running from the far left to the far right of the wooden bridge
+970, A black bear is dumping a trash can in the woods
+1111, A red car is parked on the right side of the road before a black one.
+355, A brown rabbit is trying to eat the bread on its neck.
+823, The black whale is swimming down with its tail out of the sea surface.
+1049, A black horse is running quickly on the snow
+314, a brown cattle is sanding still and eating grass with head up
+722, The bike behind the man carries a man in bright clothes
+244, The black whale is gradually flowing out of the water and swimming from left to right in the vast sea.
+114, An airplane is moving from left to right in the airshow  
+1263, The monkey on the right is holds a little monkey
+1247, A squirrel jumps and bites a snake on the ground
+211, The brown antelope on the right in the front of the herd is fighting with the other on grass.
+693, The bike at the bottom and left runs on a road
+369, a dog on the right is walking on the road
+671, The left and yellow car in the second row from the bottom carrying a man without a hat runs the road 
+1010, The monkey on the left runs to the left on a branch
+448, A brown horse in the distance runs from right to left on the track
+1081, The white bus facing to the left is parked on the road in front of the other one.
+858, The lizard lies over a log.
+941, the first golden airplane is coming from the left site to the right site with a long blue smoking tail
+1142, The black car is parking on the right side of the road near a white building.
+278, A motorcycle from the top runs in the desert 
+787, A fox in brown runs from the distance and stops beside the tree 
+181, The bigger elephant in the back is retreating, owing to the approaching of a smaller one.
+1002, A gray elephant in small size is walking from left to right on the grass.
+224, A green and black snake crawls in the corner under a green plant
+1032, a monkey climbing on the rope is moving from left to right
+1168, A car in dark color is parked on the left in front of a house
+169, A small white dog on the left is sitting in the corner and looking at another dog in a green box.
+1254, the black and white giant panda is walking alone next to a tree
+60, A black whale is swimming and splashing water near the water surface in the sea.
+1156, The white car is parked between a white van and a white car on the left side of the road.
+924, A airplane in the first is flying in the sky
+392, The red airplane emitting white smoke on the far left is flying from left to right in the sky.
+251, A whale moves far away from the person holding a rope in the sea
+102, The plane at the bottom right flies in the sky, braving the red and yellow tail smoke
+1120, a right dark car behind the white car is waiting for the traffic light
+757, A brown bear on the right is walking on the road with solid double yellow lines
+1080, The black car at the left top corner of the screen stops at the side of the street.
+676, The second bike from the left on the first row runs fast on a road
+728, The white car in the right corner is driving slowly from right to left on the road.
+475, The small and left zebra stands on the grass with a large zebra
+1065, A white motorcycle driven by a person is running from left to right on the road with green grass nearby.
+110, The first plane on the left flies to the right leaving a green track
+100, The airplane emitting white smoke on the right is flying up in the sky.
+514, A white and long train is running straight on the rail.
+929, a dark airplane at the left site is flying from left to right
+148, An airplane is flying at the lowest position to the right 
+1036, A monkey jumps from the tree and moves from left to right
+354, A rabbit stands on a table and stares at the distance
+70, The second whale from the right floats on the surface of the sea
+1119, A red car is parked on the left side of the road under a shade of a tree.
+1201, A silver car is passing through a blue bus
+389, The airplane near the center on the top right is flying from left to right in the sky
+315,  a cattle behind the stone pillar is eating grass
+1056, a bus on the left is moving closer quickly
+1252, A hamster is walking around in a cage
+465, The yellow, white and green car is running from left to right on the left side of the road.
+404, The red car moves fast and makes a turn.
+334, A brown squirrel is licking from the front of the cat
+903, The brown and white antelope on the far right is eating grass with its head down.
+1241, A red train is moving fast through a platform
+164, A black car is driving from right to left behind other cars on the road.
+953, The right and bottom plane flies in the air
+39, A white and brown dog is chasing with another dog from right to left on the ground.
+1050, A fighter jet takes off on the deck of the aircraft carrier
+613, The airplane at the back of the queue is flying from left to right in the sky.
+805, A white tiger squats on a green meadow with a brown tiger next to him
+190, The antelope in the middle walks to the right on the grass
+300, A white and golden short-haired puppy in the middle is running slowly on a treadmill.
+852, The right zebra stands on near a tree 
+650, A turtle runs on the ground
+651, A whale swims in the water from left to right
+764, A yellow airplane is taking off from a warship saling on the sea.
+833, A ship on the right floats on the sea
+504, The cattle on the right keeps still on the yellow grass
+1082, A van with half of body hidden by the tree runs from left to right
+786, A black domestic cat is standing still on the green grassland surrounded by trees.
+947, The red airplane on the right side of the middle line is flying from right to left in the sky.
+1264, an orange monkey is being held by another monkey at the right side
+118, The airplane spewing out yellow smoke on the top is flying left to right.
+1006, The little monkey on the wood goes to the left and then returns to the right
+535, A monkey walks on the stone under a tree near a man
+902, A rabbit is playing with a deer happily on the grass
+1172, The second car from the left is parked in front of a house
+143, The airplane that was in the penultimate place in queue gradually catches up with other airplanes.
+927, The airplane at the bottom is passed by other planes on the top
+88, An large elephant in the middle swings its tail on the grass
+1001, An elephant on the right is walking from left to right in the grass near a car.
+643, A turtle on the left craws on the dirty gravel road
+1005, A small brown bird is standing on a dry branch of a tree and looking around.
+217, The antelope directly above the right deer is eating grass on the ground.
+106, the leading airplane is flying from left to right with a long white smoking tail 
+660, The whale on the left shows only its back out of the water
+842, The zebra in the middle is walking on the snow.
+379, The airplane at the right and bottom side is flying.
+714, A bicycle on the top and right carrying a green clothes gets close
+713, The bicycle on the right runs to the left and then to the right
+338, a golden lion at the right side is standing still inside the fence
+1245, The yellow snake with black spots is crawling difficultly for the reason that it is bitten by a squirrel.
+912, A green lizard walks on a wood under the shadow
+991, The right elephant is walking along the path.
+669, a bicycle on the far left is carrying a man
+816, a white car is parking next to a stone wall
